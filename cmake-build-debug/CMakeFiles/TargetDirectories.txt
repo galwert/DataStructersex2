@@ -1,0 +1,3 @@
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet2_new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet2_new/cmake-build-debug/CMakeFiles/wet2_new.dir
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet2_new/cmake-build-debug/CMakeFiles/edit_cache.dir
